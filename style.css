@@ -25,7 +25,7 @@ iframe {
 }
 
 div.cover {
-    background: url(RESOURCES/cover_overlay.png) no-repeat center/100% 100%,url(RESOURCES/cover.jpg) no-repeat center/cover;
+    background: url(cover_overlay.png) no-repeat center/100% 100%,url(cover.jpg) no-repeat center/cover;
     height: 360px;
     position: relative;
 }
@@ -98,14 +98,14 @@ a.contact-button:hover {
 }
 
 div.section-grise1 {
-    background: url(RESOURCES/triangle2white.svg) no-repeat center bottom -1px/100%;
+    background: url(triangle2white.svg) no-repeat center bottom -1px/100%;
     background-color: var(--color2);
     padding-top: 30px;
     padding-bottom: 70px;
 }
 
 div.section-grise2 {
-    background: url(RESOURCES/triangle1white.svg) no-repeat center top -1px/100%;
+    background: url(triangle1white.svg) no-repeat center top -1px/100%;
     background-color: var(--color2);
     padding-top: 80px;
     
@@ -197,7 +197,7 @@ div.frame img {
 
 .portfolio-header {
     height: 90px;
-    background: url(RESOURCES/header.jpg) no-repeat center/cover;
+    background: url(header.jpg) no-repeat center/cover;
 }
 
 .portfolio-header-title {
